@@ -17,7 +17,12 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) 
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) 
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=ffffff) 
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white) 
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) 
+![Windows 11](https://img.shields.io/badge/windows%2011-%230078D4.svg?style=flat&logo=windows11&logoColor=white)
+
 
 
 
