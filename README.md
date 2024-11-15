@@ -8,6 +8,7 @@
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=ffffff) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
@@ -17,7 +18,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) 
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) 
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=ffffff) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) 
