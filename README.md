@@ -1,53 +1,49 @@
-# 👋 Hi, I’m Aashutosh Sharma  
-- 🎨 **Graphic Designer & Illustrator** | 5+ Years of Experience    
-- 📩 Let's connect! **[LinkedIn](https://www.linkedin.com/in/aashutoshsharma2111/) | [Twitter/X](https://x.com/aashucloud)**  
-- 😄 Pronouns: He/Him  
+# Hey, I'm Aashutosh! 👋
+
+🎨 **Designer by experience, developer by curiosity.**
+
+I'm a graphic designer and illustrator with **6 years of experience**, currently exploring programming, game development, and animation.
+
+I enjoy experimenting with different technologies, building little projects, and figuring things out as I go.
+
+### 💻 Programming & Web
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🎮 Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white)
+
+*Currently learning Unity and C#, with an interest in 2D games and interactive experiences.*
+
+### 🎨 Design & Animation
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Adobe Animate](https://img.shields.io/badge/Adobe_Animate-FF7A00?style=flat-square)
+![Toon Boom Harmony](https://img.shields.io/badge/Toon_Boom_Harmony-222222?style=flat-square)
+
+*Illustration, graphic design, and 2D animation. Currently expanding my skills in Toon Boom Harmony.*
 
 ---
 
-## 💻 Tech Stack:
-### **🎨 Design Tools:**  
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)  
+### 🌱 Currently Exploring
 
-### **💻 Frontend Development:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+- 🕹️ Game development with Unity
+- 💻 Small programming and web projects
+- 🎬 2D animation and character rigging
+- 🧪 Whatever catches my curiosity next
 
+### 🔗 Find Me Elsewhere
 
-### **📦 Tools & Platforms:**  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
-![Windows 11](https://img.shields.io/badge/windows%2011-%230078D4.svg?style=flat&logo=windows11&logoColor=white)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashutoshsharma2111/)
+[![Twitter/X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/aashucloud)
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=daplixo&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daplixo&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
-
----
-
-## 📽 Latest YouTube Video:
-[![YouTube](http://i.ytimg.com/vi/SuinWdgqDEY/hqdefault.jpg)](https://www.youtube.com/watch?v=SuinWdgqDEY)  
-🎥 *Check out my latest design & tech content on YouTube!*  
-
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=daplixo&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
-
----
-
-## 🔝 Top Contributed Repositories:
-![](https://github-contributor-stats.vercel.app/api?username=daplixo&limit=5&theme=radical&combine_all_yearly_contributions=true)  
-
----
-
-## 🚀 Let's Connect & Collaborate!
-📩 **[LinkedIn](https://www.linkedin.com/in/aashutoshsharma2111/) | [Twitter/X](https://x.com/aashucloud)**  
-
-[![](https://visitcount.itsvg.in/api?id=daplixo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Just building, learning, and experimenting. 🚀*
